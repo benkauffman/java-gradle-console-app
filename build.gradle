@@ -26,7 +26,7 @@ sourceSets {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'org.eclipse.che.examples.HelloWorld'
+        attributes 'Main-Class': 'com.krashidbuilt.Main'
     }
 }
 
